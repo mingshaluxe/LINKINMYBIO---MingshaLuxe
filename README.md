@@ -1,1 +1,1 @@
-![Mingsha Logo](./images/MingshaLogo.jpg)
+![Mingsha Logo](./MingshaLogo.jpg)
